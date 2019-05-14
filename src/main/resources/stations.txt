@@ -1,0 +1,11 @@
+Lviv 10
+
+Kyiv 15
+
+Odessa 17
+
+Vinnytsia 12
+
+Mariupol 20
+
+Syhiv 9

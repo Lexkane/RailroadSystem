@@ -1,0 +1,23 @@
+Lviv / Vinnytsia / Kyiv / Odessa / Mariupol
+1000 , 800 , 600 , 300 , 0
+
+Lviv / Vinnytsia / Kyiv
+800 , 600 , 0
+
+Syhiv / Lviv
+10 , 0
+
+Kyiv / Odessa
+500 , 0
+
+Mariupol / Odessa / Kyiv / Vinnytsia / Lviv
+1000 , 800 , 600 , 300 , 0
+
+Kyiv / Vinnytsia / Lviv
+800 , 600 , 0
+
+Lviv / Syhiv
+10 , 0
+
+Odessa / Kyiv
+500 , 0
